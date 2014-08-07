@@ -1,6 +1,6 @@
 # App Confirmation Alerts
 
-See demo here: [https://github.com/lucienbeau/toast-alerts](https://github.com/lucienbeau/toast-alerts)
+See demo here: [https://lucienbeau.github.io/toast-alerts](https://lucienbeau.github.io/toast-alerts)
 
 To use call
 - Toast.alert('Put your alert here');
